@@ -1,1 +1,1 @@
-# exemploAPS2
+Repositorio criado para aprender GITHUB
